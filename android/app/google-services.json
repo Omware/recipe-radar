@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629858831297",
+    "project_id": "recipe-radar-3843a",
+    "storage_bucket": "recipe-radar-3843a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629858831297:android:c0e403c0490acae4fc7d40",
+        "android_client_info": {
+          "package_name": "com.example.recipes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV2DIYZyPfGkmvq5f73rnYpdvADXLPa-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
