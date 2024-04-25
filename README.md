@@ -32,7 +32,7 @@ This project uses a `config.dart` file to manage sensitive information like API 
     # .gitignore
 
     # Exclude config.dart to prevent it from being tracked
-    /utils/config.dart
+    /lib/utils/config.dart
     ```
 
 2. **Create `config_sample.dart`:**
